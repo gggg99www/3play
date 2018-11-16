@@ -1,5 +1,5 @@
 token=NTEyODEzOTYzNTYyNzEzMDg4.DtAg2A.BCRX63pYnzf74bmGTgO3L1epfJ4
-owner=ا499982945088569344
+owner=499982945088569344
 prefix= 3
 game= 3play
 stayinchannel=true
